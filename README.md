@@ -1,5 +1,4 @@
-[![gasselin's Exam rank 03 Score](https://badge42.herokuapp.com/api/project/gasselin/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42)
-
+[![gasselin's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl3346xta00920ajxpf1ddxua/project/2341563)](https://github.com/JaeSeoKim/badge42)
 # 42-exam-rank-03
 Very easy 80-line leaks-free for both subjects
 
